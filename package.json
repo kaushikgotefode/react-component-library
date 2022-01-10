@@ -1,7 +1,7 @@
 {
-    "name": "react-component-lib-boilerplate",
+    "name": "react-component-library",
     "version": "1.1.14",
-    "description": "a boilerplate for creating react components library",
+    "description": "react components library",
     "main": "lib/index.js",
     "module": "lib/index.esm.js",
     "scripts": {
@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ChamsBouzaiene/react-component-lib-boilerplate.git"
+        "url": "git+https://github.com/kaushikgotefode/react-component-library.git"
     },
     "keywords": [
         "react",
@@ -25,12 +25,12 @@
         "storybook",
         "components"
     ],
-    "author": "Chamsddine Bouzaiene",
+    "author": "Kaushik Gotefode",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ChamsBouzaiene/react-component-lib-boilerplate/issues"
+        "url": "https://github.com/kaushikgotefode/react-component-library/issues"
     },
-    "homepage": "https://github.com/ChamsBouzaiene/react-component-lib-boilerplate#readme",
+    "homepage": "https://github.com/kaushikgotefode/react-component-library#readme",
     "devDependencies": {
         "@babel/core": "^7.14.2",
         "@rollup/plugin-commonjs": "^19.0.0",
